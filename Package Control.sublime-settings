@@ -1,0 +1,19 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"GoSublime",
+		"HTML5",
+		"PHP-Twig",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Symfony2 Snippets",
+		"Theme - Flatland",
+		"Theme - Phoenix"
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"flatland_square_tabs": true,
+	"font_face": "Source Code Pro",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Theme - Phoenix",
+		"Vintage"
+	],
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"word_wrap": true
+}
