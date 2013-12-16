@@ -6,8 +6,8 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"Theme - Phoenix",
-		"Vintage"
+		"Vintage",
+		"Theme - Phoenix"
 	],
 	"tab_size": 4,
 	"theme": "Flatland Dark.sublime-theme",

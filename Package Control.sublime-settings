@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
 		"Gist",
@@ -9,6 +10,7 @@
 		"GitGutter",
 		"GoSublime",
 		"HTML5",
+		"LESS",
 		"PHP-Twig",
 		"SublimeCodeIntel",
 		"SublimeREPL",
