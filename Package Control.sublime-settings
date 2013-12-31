@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Base16 Color Schemes",
 		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
@@ -15,7 +16,9 @@
 		"SublimeCodeIntel",
 		"SublimeREPL",
 		"Symfony2 Snippets",
+		"SyncedSideBar",
 		"Theme - Flatland",
-		"Theme - Phoenix"
+		"Theme - Phoenix",
+		"Theme - Spacegray"
 	]
 }
