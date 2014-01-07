@@ -4,6 +4,7 @@
 		"Alignment",
 		"Base16 Color Schemes",
 		"BracketHighlighter",
+		"CoffeeCompile",
 		"DocBlockr",
 		"Emmet",
 		"Gist",
@@ -11,14 +12,14 @@
 		"GitGutter",
 		"GoSublime",
 		"HTML5",
+		"JSONLint",
 		"LESS",
 		"PHP-Twig",
+		"SCSS",
 		"SublimeCodeIntel",
 		"SublimeREPL",
 		"Symfony2 Snippets",
 		"SyncedSideBar",
-		"Theme - Flatland",
-		"Theme - Phoenix",
 		"Theme - Spacegray"
 	]
 }
