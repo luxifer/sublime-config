@@ -1,0 +1,6 @@
+{
+    "env": {
+        "GOPATH": "$HOME/apps/go"
+    },
+    "shell": ["/bin/zsh", "--login", "-c", "$CMD"]
+}
