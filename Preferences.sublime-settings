@@ -1,11 +1,16 @@
 {
 	"color_scheme": "Packages/Base16 Color Schemes/base16-solarized.dark.tmTheme",
+	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
 	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
 	],
 	"tab_size": 4,
 	"theme": "Spacegray.sublime-theme",

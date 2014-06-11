@@ -6,6 +6,7 @@
 		"BracketHighlighter",
 		"CoffeeCompile",
 		"Cucumber",
+		"DashDoc",
 		"DocBlockr",
 		"Emmet",
 		"Evaluate",
@@ -21,10 +22,12 @@
 		"LESS",
 		"PHP-Twig",
 		"SCSS",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeREPL",
 		"Symfony2 Snippets",
 		"SyncedSideBar",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"TrailingSpaces"
 	]
 }
