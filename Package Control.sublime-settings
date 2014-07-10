@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"ApacheConf.tmLanguage",
 		"Base16 Color Schemes",
 		"BracketHighlighter",
 		"CoffeeCompile",
@@ -18,6 +19,7 @@
 		"Hasher",
 		"HTML5",
 		"Indent XML",
+		"Jinja2",
 		"JSONLint",
 		"LESS",
 		"PHP-Twig",
