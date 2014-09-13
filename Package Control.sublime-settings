@@ -22,6 +22,7 @@
 		"Jinja2",
 		"JSONLint",
 		"LESS",
+		"nginx",
 		"PHP-Twig",
 		"SCSS",
 		"SideBarEnhancements",
