@@ -2,11 +2,6 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"Alignment",
@@ -35,13 +30,14 @@
 		"nginx",
 		"Package Control",
 		"PHP-Twig",
+		"Puppet",
 		"ReactJS",
 		"SCSS",
-		"SideBarEnhancements",
 		"SublimeREPL",
 		"Symfony2 Snippets",
 		"SyncedSideBar",
 		"Theme - Spacegray",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"WordCount"
 	]
 }
