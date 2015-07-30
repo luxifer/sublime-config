@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Base16 Color Schemes/base16-solarized.dark.tmTheme",
+	"default_line_ending": "unix",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
@@ -12,12 +13,11 @@
 	[
 		"draw_active"
 	],
+	"show_encoding": true,
+	"show_line_endings": true,
 	"tab_size": 4,
 	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"default_line_ending": "unix",
-	"show_encoding": true,
-	"show_line_endings": true
+	"word_wrap": true
 }
