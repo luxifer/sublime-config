@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Base16 Color Schemes/base16-solarized.dark.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"default_line_ending": "unix",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
@@ -7,16 +7,22 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
+		"RestructuredText",
 		"Vintage"
 	],
 	"indent_guide_options":
 	[
 		"draw_active"
 	],
+	"rulers":
+	[
+		80
+	],
 	"show_encoding": true,
 	"show_line_endings": true,
+	"skin": "ayu/ayu mirage",
 	"tab_size": 4,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
