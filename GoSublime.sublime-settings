@@ -1,3 +1,6 @@
 {
-    "shell": ["/bin/zsh", "--login", "-c", "$CMD"]
+    "shell": ["/bin/zsh", "--login", "-c", "$CMD"],
+    "env": {
+        "GOPATH": "/Users/florent/apps/go"
+    }
 }
