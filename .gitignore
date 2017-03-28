@@ -11,3 +11,4 @@ Package Control.user-ca-bundle
 oscrypto-ca-bundle.crt
 *.log
 *.bak
+Xdebug.breakpoints
