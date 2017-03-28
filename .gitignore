@@ -12,3 +12,4 @@ oscrypto-ca-bundle.crt
 *.log
 *.bak
 Xdebug.breakpoints
+Color Highlighter
