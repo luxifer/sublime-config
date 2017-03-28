@@ -16,7 +16,8 @@
 	],
 	"rulers":
 	[
-		80
+		79,
+		119
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
